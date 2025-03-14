@@ -1,0 +1,10 @@
+body {
+  background-color: rgba(34, 34, 34, 0.966);
+}
+header img {
+  max-width: 130px;
+}
+
+main img {
+  max-width: 100px;
+}
