@@ -1,0 +1,22 @@
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+header img {
+  max-width: 130px;
+}
+.navbar {
+  background-color: rgba(34, 34, 34, 0.966);
+}
+body {
+  background-color: rgba(34, 34, 34, 0.966);
+}
+
+.text-white {
+  color: white !important;
+}
+
+h3 {
+  white-space: normal;
+}
